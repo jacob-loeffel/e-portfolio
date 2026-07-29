@@ -82,8 +82,8 @@ li {
   padding: 0 12px;
 }
 
-.text--purple {
-  color: #6030b1;
+.text--blue {
+  color: #1511eb;
 }
 
 section:nth-child(even) {
@@ -117,7 +117,7 @@ nav {
 }
 
 .nav__link--anchor-primary {
-  background-color: #6030b1;
+  background-color: #1511eb;
   color: white;
   padding: 8px 20px;
   border-radius: 50px;
@@ -125,12 +125,12 @@ nav {
 }
 
 .nav__link--anchor-primary:hover {
-  background-color: #5d3eff;
+  background-color: #546bd4;
 }
 
 .personal__logo {
   font-size: 24px;
-  color: #6030b1;
+  color: #1511eb;
   margin: 0 12px;
   font-weight: bold;
 }
@@ -409,12 +409,12 @@ footer {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 8% 0;
+  padding: 5% 0;
 }
 
 .footer__logo--img {
-  width: 70px;
-  height: 70px;
+  width: 90px;
+  height: 90px;
 }
 
 .footer__social--link,
